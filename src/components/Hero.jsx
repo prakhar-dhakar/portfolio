@@ -13,7 +13,7 @@ const Hero = () => {
   const rotate = useTransform(scrollYProgress, [0, 1], [0, 45])
 
   return (
-    <section ref={containerRef} className="relative min-h-[85vh] flex items-center justify-center">
+    <section ref={containerRef} className="relative min-h-screen pt-24 flex items-center justify-center">
       {/* Animated background elements */}
       <div className="absolute inset-0 -bottom-48">
         <div className="absolute inset-0 opacity-90">

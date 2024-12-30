@@ -4,7 +4,7 @@ import { BriefcaseIcon } from '@heroicons/react/24/outline'
 const Experience = () => {
   const experiences = [
     {
-      title: 'Software Engineer 2',
+      title: 'Software Engineer',
       company: 'JP Morgan Chase',
       location: 'Bengaluru, India',
       period: 'July 2023 – present',
@@ -29,7 +29,7 @@ const Experience = () => {
       ]
     },
     {
-      title: 'ML Intern',
+      title: 'AI Engineer',
       company: 'ExaWizards Inc',
       location: 'Remote',
       period: 'Apr 2020 – Aug 2020',
@@ -40,7 +40,7 @@ const Experience = () => {
       ]
     },
     {
-      title: 'Research Intern',
+      title: 'Student Researcher',
       company: 'Concordia University',
       location: 'Montreal, Canada',
       period: 'Jun 2020 – Sept 2020',
@@ -51,7 +51,7 @@ const Experience = () => {
       ]
     },
     {
-      title: 'Data Science Intern',
+      title: 'Data Scientist',
       company: 'Elucidata',
       location: 'New Delhi, India',
       period: 'May 2019 – July 2019',

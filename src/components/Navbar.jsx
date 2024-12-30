@@ -6,7 +6,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
   const [isOpen, setIsOpen] = useState(false)
 
   const menuItems = [
-    { name: 'About', href: '#about' },
+    { name: 'Skills', href: '#about' },
     { name: 'Experience', href: '#experience' },
     { name: 'Projects', href: '#projects' },
   ]
